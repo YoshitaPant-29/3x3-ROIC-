@@ -1,4 +1,3 @@
-# 3x3-Read out integrated cicuit using buffered logic
 # 🔧 3×3 ROIC Digital Controller (Verilog RTL)
 
 This project implements a **digital scan controller** for a 3×3 Read-Out Integrated Circuit (ROIC), written in Verilog. It simulates how an infrared image sensor sequentially accesses pixel data through FSM-controlled row and column selection logic.
